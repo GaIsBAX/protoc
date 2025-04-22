@@ -1,4 +1,4 @@
-module github.com/GaIsBax/protoc
+module github.com/GaIsBax/protos
 
 go 1.23.5
 
